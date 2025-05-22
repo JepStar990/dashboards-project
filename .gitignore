@@ -1,0 +1,12 @@
+# Ignore dataset files
+*.csv
+*.xlsx
+*.json
+*.pbix
+*.twb
+*.dj3
+*.xls
+*.xlsm
+*.db
+*.sqlite
+*.sql
