@@ -37,7 +37,7 @@ dashboards-project/
 
 ## Contributing
 
-<<<<<<< HEAD
+<<<<<<<
 Feel free to contribute by adding your own dashboards or improving existing ones.
 =======
 Feel free to contribute by adding your own dashboards or improving existing ones. Please ensure that you follow the project structure.
