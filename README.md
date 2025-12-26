@@ -37,11 +37,7 @@ dashboards-project/
 
 ## Contributing
 
-<<<<<<<
-Feel free to contribute by adding your own dashboards or improving existing ones.
-=======
-Feel free to contribute by adding your own dashboards or improving existing ones. Please ensure that you follow the project structure.
->>>>>>> 886a20b9a58e0316c71fc3e7a4d8fcd3c379f06e
+Feel free to contribute by adding your own dashboards or improving existing ones. Please ensure that you follow the project structure
 
 ## License
 
